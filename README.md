@@ -39,4 +39,4 @@ $python3 chatroom.py --help
 ```
 
 ### Additional
-Any additional questions please forward to me at cjsd32@mail.missouri.edu
+Any additional questions please forward to me at mail <at> colinjstevens <dot> com
